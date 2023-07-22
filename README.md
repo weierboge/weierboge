@@ -2,9 +2,9 @@
 
 我是韦二伯格，是一名短视频从业者和编导专业人士，喜欢探索最新的科技数码产品和各种新鲜事物。我的创作内容包括好物推荐、高端商业软文、短视频策划、视频拍摄制作等，曾在家居和摄影领域有所建树。在过去，我的优质内容量超过了400篇，吸引了1500万人次的浏览。如果您对我的创作感兴趣，欢迎通过我的主页签名上的方式联系我，进行合作。
 
-这是我的知乎主页[韦二伯格](https://www.zhihu.com/people/wei-shi-bo)
+这是我的知乎主页：[@韦二伯格](https://www.zhihu.com/people/wei-shi-bo)
 
-如果有任何疑问可以通过这个页面咨询我 [韦二伯格的付费咨询主页](https://www.zhihu.com/consult/people/724344761573478400)
+如果有任何疑问可以通过这个页面咨询我： [韦二伯格的付费咨询主页](https://www.zhihu.com/consult/people/724344761573478400)
 
 <!--
 **weierboge/weierboge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -4,11 +4,13 @@
 
 包括：：
 
-1.[小红书格式模板文案转换](https://www.hongshubang.com)  
+1.[小红书格式模板文案转换](https://www.hongshubang.com)  :一键把你的文案转换为带有emoji表情的小红书格式
 
-2.[在线字数统计](https://www.zishutongji.com) 
+2.[在线字数统计](https://www.zishutongji.com) ：一个简单的字数统计小工具
 
-3.[V50看看实力](https://www.kankanshili.cn) 
+3.[V50看看实力](https://www.kankanshili.cn) ：我的聚合付款码，如果觉得有意思的话，欢迎通过这个付款码打赏
+
+<img width="1432" alt="image" src="https://github.com/weierboge/weierboge/assets/53058428/bae100bc-5aa0-40e8-96c0-8bb76d1b010a">
 
 我的其他工作内容包括短视频运营一对一咨询、抖音快手视频号小红书等平台的短视频代运营、短视频策划、视频拍摄制作、知乎数码类商业写作等，在过去，我的优质内容量超过了400篇，吸引了1500万人次的浏览。如果您对我的创作感兴趣，欢迎通过我的主页签名上的方式联系我，进行合作。
 

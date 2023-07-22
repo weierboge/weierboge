@@ -8,7 +8,7 @@
 
 1.[小红书格式模板文案转换](https://www.hongshubang.com)  :一键把你的文案转换为带有emoji表情的小红书格式
 
-2.[在线字数统计](https://www.zishutongji.com) ：一个简单的字数统计小工具
+2.[在线字数统计](https://zishutongji.com/) ：一个简单的字数统计小工具
 
 3.[V50看看实力](https://www.kankanshili.cn) ：我的聚合付款码，如果觉得有意思的话，欢迎通过这个付款码打赏
 

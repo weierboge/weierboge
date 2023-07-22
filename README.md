@@ -4,7 +4,7 @@
 
 这是我的知乎主页：[@韦二伯格](https://www.zhihu.com/people/wei-shi-bo)
 
-如果有任何疑问可以通过这个页面咨询我： [韦二伯格的付费咨询](https://www.zhihu.com/consult/people/724344761573478400)
+如果有任何疑问可以通过这个页面咨询我： [@韦二伯格 的付费咨询](https://www.zhihu.com/consult/people/724344761573478400)
 
 <!--
 **weierboge/weierboge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

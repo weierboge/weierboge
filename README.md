@@ -6,7 +6,7 @@
 
 我通过GitHub和 New bing 打造了几个免费的小工具：
 
-1.[小红书格式模板文案转换](https://www.hongshubang.com)  :一键把你的文案转换为带有emoji表情的小红书格式
+1.[红书帮-小红书一键添加emoji表情](https://www.hongshubang.com)  :一键把你的文案转换为带有emoji表情的小红书格式
 
 2.[在线字数统计](https://zishutongji.com/) ：一个简单的字数统计小工具
 

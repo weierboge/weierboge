@@ -10,9 +10,7 @@
 
 2.[在线字数统计](https://zishutongji.com/) ：一个简单的字数统计小工具
 
-3.[V50看看实力](https://kankanshili.cn/) ：我的聚合付款码，如果觉得有意思的话，欢迎通过这个付款码打赏
 
-<img width="1432" alt="image" src="https://github.com/weierboge/weierboge/assets/53058428/bae100bc-5aa0-40e8-96c0-8bb76d1b010a">
 
 
 

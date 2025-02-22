@@ -16,9 +16,9 @@
 
 2.[在线字数统计](https://zishutongji.com/) ：一个简单的字数统计小工具
 
-3.[Markdown格式一键转换工具](https://weierboge.github.io/markdowntool/) 这是一个将 Markdown 格式与普通格式文本互相转换的工具，可以直接将豆包、DeepSeek等AI工具生成的Markdown 格式文本转换为可以直接粘贴在word或者微信中的文字。格式文本保留了文档的结构和样式，去掉了一些无序列表符号，便于阅读和编辑。
+3.[Markdown格式一键转换工具](https://weierboge.github.io/markdowntool/) 这是一个将 Markdown 格式与普通格式文本互相转换的工具，可以直接将豆包、DeepSeek等AI工具生成的Markdown 格式文本转换为可以直接粘贴在word或者微信中的文字。格式文本保留了文档的结构和样式，去掉了一些无序列表符号，便于阅读和编辑。 
 
-4. [小红书卡片生成器:一键生成小红书图文卡片](https://weierboge.github.io/Redbookcard/)本工具支持普通文本和Markdown文本一键转换为小红书卡片。 
+4.[小红书卡片生成器:一键生成小红书图文卡片](https://weierboge.github.io/Redbookcard/)本工具支持普通文本和Markdown文本一键转换为小红书卡片。 
 大家可以用空行和字号调节自行调节卡片内容分布。
 
 

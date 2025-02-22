@@ -1,9 +1,10 @@
-<center>
-  <a href="README_zh.md" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">中文版本</a>
-  <a href="README_en.md" style="display: inline-block; margin-left: 10px; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px;">英文版本</a>
-</center>
+### Hi there 👋 Welcome to my homepage!
 
- ### Hi there 👋 Welcome to my homepage!
+This is my introduction in Chinese and English. You can choose to view different language versions:
+[Chinese version](README_zh.md) / [English version](README_en.md)
+
+If you want to know more about my projects and skills, please continue to browse.
+
 
 I'm Wei Erboge, a short video professional and someone majoring in directing. I enjoy exploring the latest tech and digital products as well as all kinds of new and interesting things. My other work includes being a digital blogger on Zhihu, providing one-on-one consultation for short video operation, offering short video agency operation services for platforms like Douyin, Kuaishou, Video号 (WeChat Channels), and Xiaohongshu, conducting short video planning, video shooting and production, and engaging in commercial writing in the digital category on Zhihu. In the past, I've created over 400 pieces of high-quality content, attracting 15 million views. If you're interested in my creations, feel free to contact me for cooperation through the method indicated in the signature on my homepage.
 

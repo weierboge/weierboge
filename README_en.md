@@ -1,7 +1,7 @@
 ### Hi there 👋 Welcome to my homepage!
 
 This is my introduction in Chinese and English. You can choose to view different language versions:
-[Chinese version](README_zh.md) / [English version](README_en.md)
+[Chinese version](README.md) / [English version](README_en.md)
 
 If you want to know more about my projects and skills, please continue to browse.
 

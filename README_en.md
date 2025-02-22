@@ -27,5 +27,3 @@ You can adjust the content distribution of the card by using blank lines and fon
 
 I don't know anything about programming at all and have a 0-code foundation. These tools were developed with the assistance of the DeepSeek R1 chat tool, Trae, and Claude-3.5. I'd like to express my gratitude to DeepSeek and ByteDance for allowing me to use these tools for free.
 
-Tool screenshot:
-![image](https://github.com/weierboge/Redbookcard/blob/main/Redbookcardtool.png) 

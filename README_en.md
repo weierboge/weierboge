@@ -6,7 +6,19 @@ This is my introduction in Chinese and English. You can choose to view different
 If you want to know more about my projects and skills, please continue to browse.
 
 
-I'm Wei Erboge, a short video professional and someone majoring in directing. I enjoy exploring the latest tech and digital products as well as all kinds of new and interesting things. My other work includes being a digital blogger on Zhihu, providing one-on-one consultation for short video operation, offering short video agency operation services for platforms like Douyin, Kuaishou, Video号 (WeChat Channels), and Xiaohongshu, conducting short video planning, video shooting and production, and engaging in commercial writing in the digital category on Zhihu. In the past, I've created over 400 pieces of high-quality content, attracting 15 million views. If you're interested in my creations, feel free to contact me for cooperation through the method indicated in the signature on my homepage.
+I'm Wei Erboge, a short video professional and someone majoring in directing. 
+
+## My other work contents: [Short video content expert | AIGC practical creator | Blogger in the field of digital tools]
+★ Core experience
+- Served as a video creative member of a well-known director team and has practical experience in the entire process of documentary creation.
+- Douyin matrix operator: Independently operate a 5 million+ fan account matrix and serve as the content director for a 4 million fan men's clothing vertical account.
+- Producing blockbuster content: Produced multiple short videos with a single video playback volume of over 60 million+, with a total playback volume of over 500 million for a single account, and wrote many articles with over 100,000 views.
+★ Hardcore skills
+- Full-process production: Experience in the complete link of planning/shooting/editing/delivery/monetization.
+- Tool combination: Deep application of Premiere Pro/Final Cut Pro/AE/PS + Jianying/Runway ML full process.
+- AIGC empowerment: Skilled in using Claude/ChatGPT/
+
+In the past, I've created over 400 pieces of high-quality content, attracting 15 million views. If you're interested in my creations, feel free to contact me for cooperation through the method indicated in the signature on my homepage.
 
 This is my Zhihu homepage: [@韦二伯格](https://www.zhihu.com/people/wei-shi-bo)
 

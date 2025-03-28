@@ -11,12 +11,12 @@ I'm Wei Erboge, a short video professional and someone majoring in directing.
 ## My other work contents: [Short video content expert | AIGC practical creator | Blogger in the field of digital tools]
 ★ Core experience
 - Served as a video creative member of a well-known director team and has practical experience in the entire process of documentary creation.
-- Douyin matrix operator: Independently operate a 5 million+ fan account matrix and serve as the content director for a 4 million fan men's clothing vertical account.
-- Producing blockbuster content: Produced multiple short videos with a single video playback volume of over 60 million+, with a total playback volume of over 500 million for a single account, and wrote many articles with over 100,000 views.
+- Douyin matrix operator: Independently operates a 5 million+ fan account matrix and is the content director of a 4 million fan men's clothing vertical account.
+- Producing explosive content: Produced multiple short videos with a single video playback volume of over 60 million+, and the total playback volume of a single account is over 500 million+. Wrote many articles with over 100,000 views.
 ★ Hardcore skills
-- Full-process production: Experience in the complete link of planning/shooting/editing/delivery/monetization.
-- Tool combination: Deep application of Premiere Pro/Final Cut Pro/AE/PS + Jianying/Runway ML full process.
-- AIGC empowerment: Skilled in using Claude/ChatGPT/
+- Full-process production: Operate the entire business closed loop of short videos from 0 to 1. Handle planning, shooting, editing, distribution, and monetization all by oneself.
+- Tool combination: Deeply master multiple AIGC tools such as Jianying/Midjourney/Runway ML/Pixverse/KeLing/JiMeng/Conch AI/Claude/ChatGPT/DeepSeek. Empower short video operation with AIGC technology to create explosive content.
+- AI programming enthusiast, independently developed Xiaohongshu graphic card tools.
 
 In the past, I've created over 400 pieces of high-quality content, attracting 15 million views. If you're interested in my creations, feel free to contact me for cooperation through the method indicated in the signature on my homepage.
 

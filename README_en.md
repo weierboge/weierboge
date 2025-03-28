@@ -15,7 +15,7 @@ I'm Wei Erboge, a short video professional and someone majoring in directing.
 - Producing explosive content: Produced multiple short videos with a single video playback volume of over 60 million+, and the total playback volume of a single account is over 500 million+. Wrote many articles with over 100,000 views.
 ★ Hardcore skills
 - Full-process production: Operate the entire business closed loop of short videos from 0 to 1. Handle planning, shooting, editing, distribution, and monetization all by oneself.
-- Tool combination: Deeply master multiple AIGC tools such as Jianying/Midjourney/Runway ML/Pixverse/KeLing/JiMeng/Conch AI/Claude/ChatGPT/DeepSeek. Empower short video operation with AIGC technology to create explosive content.
+- Tool combination: Deeply master multiple AIGC tools such as Jianying/Midjourney/Runway ML/Pixverse/KeLing/JiMeng/Conch AI/Claude/ChatGPT/DeepSeek.
 - AI programming enthusiast, independently developed Xiaohongshu graphic card tools.
 
 In the past, I've created over 400 pieces of high-quality content, attracting 15 million views. If you're interested in my creations, feel free to contact me for cooperation through the method indicated in the signature on my homepage.

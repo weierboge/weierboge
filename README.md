@@ -15,7 +15,7 @@ This is my introduction in Chinese and English. You can choose to view different
 - 爆款内容制造：产出多个单条播放量6000W+短视频，单账号总播放5亿+，撰写多篇10W+传播文章 
 ★ 硬核技能 
 - 全流程制作：全链路操盘短视频从 0 到 1 商业闭环，一手包办策划、拍摄、剪辑、投放和变现。
-- 工具组合：深度掌握剪映/Midjourney/Runway ML/Pixverse/可灵/即梦/海螺AI/Claude/ChatGPT/DeepSeek等多款 AIGC 工具，用AIGC技术赋能短视频运营，打造爆款内容。
+- 工具组合：剪映/Midjourney/Runway ML/Pixverse/可灵/即梦/海螺AI/Claude/ChatGPT/DeepSeek等
 - AI编程爱好者，独立开发小红书图文卡片工具
 
 这是我的知乎主页：[@韦二伯格](https://www.zhihu.com/people/wei-shi-bo)

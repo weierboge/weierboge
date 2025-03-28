@@ -14,11 +14,9 @@ This is my introduction in Chinese and English. You can choose to view different
 - 抖音矩阵操盘手：独立运营500W+粉丝账号矩阵，400W粉丝男装垂类账号内容编导 
 - 爆款内容制造：产出多个单条播放量6000W+短视频，单账号总播放5亿+，撰写多篇10W+传播文章 
 ★ 硬核技能 
-- 全流程制作：策划/拍摄/剪辑/投放/变现完整链路经验 
-- 工具组合：深度应用Premiere Pro/Final Cut Pro/AE/PS+剪映/Runway ML全流程 
-- AIGC赋能：熟练运用Claude/ChatGPT/DeepSeek优化文案，独立开发小红书图文卡片工具
--在过去，我的优质内容量超过了400篇，吸引了1500万人次的浏览。如果您对我的创作感兴趣，欢迎通过我的主页签名上的方式联系我，进行合作。
-
+- 全流程制作：全链路操盘短视频从 0 到 1 商业闭环，一手包办策划、拍摄、剪辑、投放和变现。
+- 工具组合：深度掌握剪映/Midjourney/Runway ML/Pixverse/可灵/即梦/海螺AI/Claude/ChatGPT/DeepSeek等多款 AIGC 工具，用AIGC技术赋能短视频运营，打造爆款内容。
+- AI编程爱好者，独立开发小红书图文卡片工具
 
 这是我的知乎主页：[@韦二伯格](https://www.zhihu.com/people/wei-shi-bo)
 

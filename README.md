@@ -12,7 +12,8 @@ This is my introduction in Chinese and English. You can choose to view different
 ★ 核心经历 
 - 曾任知名导演团队视频主创成员，纪录片创作全流程实践经验 
 - 抖音矩阵操盘手：独立运营500W+粉丝账号矩阵，400W粉丝男装垂类账号内容编导 
-- 爆款内容制造：产出多个单条播放量6000W+短视频，单账号总播放5亿+，撰写多篇10W+传播文章 
+- 爆款内容制造：产出多个单条播放量6000W+短视频，单账号总播放5亿+，撰写多篇10W+传播文章
+  
 ★ 硬核技能 
 - 全流程制作：全链路操盘短视频从 0 到 1 商业闭环，一手包办策划、拍摄、剪辑、投放和变现。
 - 工具组合：剪映/Midjourney/Runway ML/Pixverse/可灵/即梦/海螺AI/Claude/ChatGPT/DeepSeek等
